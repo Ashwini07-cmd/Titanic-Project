@@ -29,7 +29,7 @@ This project performs an Exploratory Data Analysis (EDA) on the Titanic dataset 
 ### 1️⃣ Age Distribution of Passengers
 This plot shows the distribution of passenger ages. Most passengers were between 20 and 40 years old.
 <br>
-<img src="" alt="Image Description" Width="600">
+<img src="https://github.com/Ashwini07-cmd/Titanic-Project/blob/45a91d78e82ca0ea08915acdb9f74089f127c5ff/survival_count.png" alt="Image Description" Width="600">
 <br>
 
 
@@ -38,7 +38,7 @@ This plot shows the distribution of passenger ages. Most passengers were between
 ### 2️⃣ Survival Count by Gender
 This visualization compares survival counts by gender. Female passengers had a higher survival rate than males.
 <br>
-<img src="" alt="Image Description" Width="600">
+<img src="https://github.com/Ashwini07-cmd/Titanic-Project/blob/45a91d78e82ca0ea08915acdb9f74089f127c5ff/Survival_by_gender.png" alt="Image Description" Width="600">
 <br>
 
 
@@ -46,15 +46,17 @@ This visualization compares survival counts by gender. Female passengers had a h
 
 ### 3️⃣ Age vs Passenger Class (Boxplot)
 The boxplot compares age distribution across passenger classes. First-class passengers tend to be older on average.
+<br>
+<img src="https://github.com/Ashwini07-cmd/Titanic-Project/blob/45a91d78e82ca0ea08915acdb9f74089f127c5ff/Age%20vs%20passenger%20class.png" alt="Image Description" Width="600">
+<br>
 
-![Age vs Passenger Class Boxplot](images/age_vs_class_boxplot.png)
 
 ---
 
 ### 4️⃣ Age Distribution by Passenger Class (Violin Plot)
 The violin plot highlights the density and spread of passenger ages across different classes.
 <br>
-<img src="" alt="Image Description" Width="600">
+<img src="https://github.com/Ashwini07-cmd/Titanic-Project/blob/45a91d78e82ca0ea08915acdb9f74089f127c5ff/Age%20Distribution.png" alt="Image Description" Width="600">
 <br>
 
 ---
@@ -62,7 +64,7 @@ The violin plot highlights the density and spread of passenger ages across diffe
 ### 5️⃣ Feature Relationships (Pairplot)
 The pairplot provides an overview of relationships between numerical features such as age, fare, and family size.
 <br>
-<img src="" alt="Image Description" Width="600">
+<img src="https://github.com/Ashwini07-cmd/Titanic-Project/blob/45a91d78e82ca0ea08915acdb9f74089f127c5ff/pairplot.png" alt="Image Description" Width="600">
 <br>
 
 
